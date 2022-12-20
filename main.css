@@ -8,7 +8,7 @@ body {
     display: flex;
     justify-content: center;
     margin-top: 15rem;
-    
+    background-color: #EAB14B;
 }
 .Watch {
     width: 900px;
@@ -20,7 +20,7 @@ body {
     border-radius: 1rem;
    
     text-align: center;
-    color: #E5E9ED;
+    color: #fff;
 }
 
 h3 {
